@@ -1,13 +1,9 @@
 #!/bin/bash
 
 echo "
-          _  __    __  __
-         | |/ /___|  \/  | ___
-         | ' // _ \ |\/| |/ _ \
-         | . \  __/ |  | | (_) |
-         |_|\_\___|_|  |_|\___/
+          ࿗ッ𓆩Zex_o𓆪
 
-        𓍹 Visit @rruuurr for help 𓍻
+        𓍹 Visit @Zex_o for help 𓍻
 "
 
 python3 -m userbot
